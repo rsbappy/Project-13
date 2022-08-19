@@ -274,20 +274,3 @@ p {
     -webkit-animation-direction: alternate;
     animation-direction: alternate;
 }
-
-.banner_wrapper .animate-img .aimg2 {
-    margin-left: 5.5rem;
-    -webkit-animation-name: movebounce;
-    ;
-    animation-name: movebounce;
-    -webkit-animation-delay: 200ms;
-    animation-delay: 200ms;
-    -webkit-animation-iteration-count: infinite;
-    animation-iteration-count: infinite;
-    -webkit-animation-timing-function: ease-in-out;
-    animation-timing-function: ease-in-out;
-    -webkit-animation-direction: 2.5s;
-    animation-duration: 2.5s;
-    -webkit-animation-direction: alternate;
-    animation-direction: alternate;
-}

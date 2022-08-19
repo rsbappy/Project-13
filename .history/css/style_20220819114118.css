@@ -277,6 +277,7 @@ p {
 
 .banner_wrapper .animate-img .aimg2 {
     margin-left: 5.5rem;
+    position: absolute;
     -webkit-animation-name: movebounce;
     ;
     animation-name: movebounce;
