@@ -78,7 +78,7 @@ a {
     background: transparent;
     text-transform: capitalize;
     border-radius: .1875rem;
-    transition: all .3s ease-in-out;
+    transition: all 3.3s ease-in-out;
 }
 
 .main-btn:hover {

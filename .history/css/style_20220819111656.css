@@ -73,12 +73,12 @@ a {
     border: 0.0725rem solid var(--bg-white);
     color: var(--text-white);
     text-align: center;
-    padding: .75rem 1.375rem;
+    /* padding: .75rem 1.375rem; */
     font-size: 1rem;
     background: transparent;
     text-transform: capitalize;
     border-radius: .1875rem;
-    transition: all .3s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
 .main-btn:hover {
